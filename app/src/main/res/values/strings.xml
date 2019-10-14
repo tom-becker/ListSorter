@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListSorter</string>
+    <string name="sort_by">Sort By:</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="new_user_dialog_title">Insert New User</string>
+    <string name="delete_user_dialog_title">Delete User</string>
+</resources>
